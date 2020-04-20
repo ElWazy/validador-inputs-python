@@ -14,3 +14,9 @@ git clone https://github.com/ElWazy/validador-inputs-python.git
 ```py
 import validador
 ```
+## Para que sirve el programa.
+1.- Soluciona el ValueError.
+  - Olvidate de que el programa explote cuando le pides al usuario un `int` y el maldito te escribe un `str`, con el validador nunca más!!
+
+2.- Mensajes predefinidos.
+  - Cansado de que escribir `Ingrese un numero:`, el validador trae mensajes predefinidos, que tú puedes modificar.
